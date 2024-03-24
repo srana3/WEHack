@@ -20,23 +20,14 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>ACADEMIA</h1>
+            <h1>ECS</h1>
             <span>ONLINE EDUCATION & LEARNING</span>
             <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 
-            <i className='fab fa-facebook-f icon'></i>
-            <i className='fab fa-twitter icon'></i>
-            <i className='fab fa-instagram icon'></i>
-          </div>
-          <div className='box link'>
-            <h3>Explore</h3>
-            <ul>
-              <li>About Us</li>
-              <li>Services</li>
-              <li>Courses</li>
-              <li>Blog</li>
-              <li>Contact us</li>
-            </ul>
+            <a href="https://www.facebook.com/JonssonSchool"><i className='fab fa-facebook-f icon'></i></a>            
+            <a href="https://www.instagram.com/utdallasjonsson"><i className='fab fa-instagram icon'></i></a>            
+            <a href="https://www.youtube.com/channel/UCj8O4kKnMfM3yL3f7K8XFhA/videos"><i className='fab fa-youtube icon'></i></a> 
+          
           </div>
           <div className='box link'>
             <h3>Quick Links</h3>
@@ -74,25 +65,25 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                800 W. Campbell Road ECW 41, Richardson, TX 75080-3021
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
-                +2 392 3929 210
+                +1-972-883-4989
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                engineering@utdallas.edu
               </li>
             </ul>
           </div>
         </div>
       </footer>
-      <div className='legal'>
+      {/* <div className='legal'>
         <p>
           Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
         </p>
-      </div>
+      </div> */}
     </>
   )
 }

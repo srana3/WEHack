@@ -361,7 +361,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Setting Up Github",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b1.webp",
+    cover: "../images/blog/Github.png",
     link:"https://docs.github.com/en/get-started/getting-started-with-git/set-up-git",
   },
   {
@@ -371,7 +371,7 @@ export const blog = [
     com: "5 COMMENTS ",
     title: "Setting Up VS Code",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b2.webp",
+    cover: "./images/blog/VSCode1.jpg",
     link:"https://code.visualstudio.com/learn/get-started/basics",
   },
   {
@@ -381,7 +381,7 @@ export const blog = [
     com: "5 COMMENTS ",
     title: "Setting Up LinkedIn",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b3.webp",
+    cover: "../images/blog/LinkedIn.png",
     link:"https://www.facebook.com/JonssonSchool",
   },
 ]

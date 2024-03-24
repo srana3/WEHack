@@ -42,6 +42,8 @@ header ul li a:hover {
 .toggle {
   display: none;
 }
+
+
 /*--------header------------*/
 @media screen and (max-width: 768px) {
   .start {

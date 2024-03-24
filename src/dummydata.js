@@ -361,7 +361,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Setting Up Github",
     desc: "GitHub is a developer platform that allows developers to create, store, manage and share their code. This platform will be useful when collaborating on assignments or projects.",
-    cover: "../images/blog/GitHub-logo.png",
+    cover: "../images/blog/Github.png",
     link:"https://docs.github.com/en/get-started/getting-started-with-git/set-up-git",
   },
   {
@@ -371,7 +371,7 @@ export const blog = [
     com: "5 COMMENTS ",
     title: "Setting Up VS Code",
     desc: "Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.",
-    cover: "../images/blog/download1.png",
+    cover: "../images/blog/VSCode.jpg",
     link:"https://code.visualstudio.com/learn/get-started/basics",
   },
   {
@@ -381,7 +381,7 @@ export const blog = [
     com: "5 COMMENTS ",
     title: "Setting Up LinkedIn",
     desc: "LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps. This website will help you build vital connections from people in the industry of your choice.",
-    cover: "../images/blog/LinkedIn-Logo.wine.png",
+    cover: "../images/blog/LinkedIn.png",
     link:"https://www.linkedin.com/pulse/linkedin-beginner-all-star-8-easy-steps-clifford-wessel/",
   },
 ]

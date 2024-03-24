@@ -309,28 +309,28 @@ export const price = [
 ]
 export const faq = [
   {
-    title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "How do I add, drop, or swap classes?",
+    desc: "Go to Galaxy and enter the Orion page. From there, enter the 'Manage my Classes' page. In the drop down menu on the left hand side, students will be given the option to add, drop, or swap classes.",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "How do I transfer credits from other colleges or placement tests?",
+    desc: "AP, Dual Credit, and Community College credit can be transferred to UTD if the following criteria is met. Use the course equivalency tool on the UTD website to determine if credit will be given. For AP scores, check the UTD website to find the minimum required score. Send all official transcrips and test results to UTD and check Galaxy for updates on your transfer.",
   },
   {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "How can I change my degree?",
+    desc: "Any changes done to your major or minor are done through Galaxy. In Orion, go to the 'My Academics' page, and then go to the 'View/Request Plan Change' tab. Keep in mind, any changes must be approved by an advisor and are not guaranteed.",
   },
   {
-    title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Does UTD offer online courses?",
+    desc: "UTD schools offer many online or blended/hybrid courses. To learn more about each school's offering, please contact the school directly. You can also search for distance learning courses on coursebook. To lookup a course, go to CourseBook, enter your search criteria (for example: Term, School, and Class level), and for Distance Learning courses, select the Instruction Method as 'Online' or 'Blended/Hybrid', then click Search.",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "What skills will I need before starting my Engineering degree?",
+    desc: "Engineering classes are built on a strong foundation of math and science, particularly calculus and physics. You will want to take as many math classes as possible and try to get to trigonometry, pre-calculus and calculus if you can before graduation. If your school doesn’t offer calculus, then take Introduction to College Math. Many schools are also beginning to offer engineering classes and programs. These programs may give you more exposure to engineering and help you decide if it is the right choice for you.",
   },
   {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Does UTD have engineering based organizations and extracurriculars?",
+    desc: "Yes! UTD offers many engineering based clubs and organizations to help every student get involved on campus. Visit the Jonsson School student organization page for a detailed view of all the available organizations.",
   },
 ]
 export const blog1 = [

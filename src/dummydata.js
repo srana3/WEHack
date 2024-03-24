@@ -362,6 +362,7 @@ export const blog = [
     title: "Setting Up Github",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b1.webp",
+    link:"https://docs.github.com/en/get-started/getting-started-with-git/set-up-git",
   },
   {
     id: 2,
@@ -371,6 +372,7 @@ export const blog = [
     title: "Setting Up VS Code",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b2.webp",
+    link:"https://code.visualstudio.com/learn/get-started/basics",
   },
   {
     id: 3,
@@ -380,6 +382,7 @@ export const blog = [
     title: "Setting Up LinkedIn",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
     cover: "../images/blog/b3.webp",
+    link:"https://www.facebook.com/JonssonSchool",
   },
 ]
 export const testimonal = [

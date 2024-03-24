@@ -10,7 +10,7 @@ const BlogCard = () => {
             <img src={val.cover} alt='' />
           </div>
           <div className='text'>
-          <a href="https://www.facebook.com/JonssonSchool"><button className='outline-btn'>Setup</button></a>
+          <a href={val.link}><button className='outline-btn'>Setup</button></a>
             {/* <div className='admin flexSB'>
               <span>
                 <i className='fa fa-user'></i>

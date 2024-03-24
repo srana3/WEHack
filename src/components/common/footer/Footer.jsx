@@ -20,9 +20,9 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>ECS</h1>
-            <span>ONLINE EDUCATION & LEARNING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <h1>ECSConnect</h1>
+            <span>THE ALL IN ONE ENGINEERING HUB</span>
+            <p> </p>
 
             <a href="https://www.facebook.com/JonssonSchool"><i className='fab fa-facebook-f icon'></i></a>            
             <a href="https://www.instagram.com/utdallasjonsson"><i className='fab fa-instagram icon'></i></a>            

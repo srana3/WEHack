@@ -8,15 +8,15 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <div className='row'>
-            <Heading subtitle='WELCOME TO ACADEMIA' title='Best Online Education Expertise' />
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <Heading subtitle='WELCOME TO ECSConnect' title='The All In One Engineering Hub' />
+            <p>This website aims to streamline the admissions process for a first year engineering student.</p>
             <div className='button'>
-              <button className='primary-btn'>
+              {/*<button className='primary-btn'>
                 GET STARTED NOW <i className='fa fa-long-arrow-alt-right'></i>
               </button>
               <button>
                 VIEW COURSE <i className='fa fa-long-arrow-alt-right'></i>
-              </button>
+  </button>*/}
             </div>
           </div>
         </div>

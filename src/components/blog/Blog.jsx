@@ -6,7 +6,7 @@ import "./blog.css"
 const Blog = () => {
   return (
     <>
-      <Back title='SetupA' />
+      <Back title='Setup' />
       <section className='blog padding'>
         <div className='container grid2'>
           <BlogCard />

@@ -360,8 +360,9 @@ export const blog = [
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
     title: "Setting Up Github",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b1.webp",
+    desc: "GitHub is a developer platform that allows developers to create, store, manage and share their code. This platform will be useful when collaborating on assignments or projects.",
+    cover: "../images/blog/GitHub-logo.png",
+    link:"https://docs.github.com/en/get-started/getting-started-with-git/set-up-git",
   },
   {
     id: 2,
@@ -369,8 +370,9 @@ export const blog = [
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
     title: "Setting Up VS Code",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b2.webp",
+    desc: "Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.",
+    cover: "../images/blog/download1.png",
+    link:"https://code.visualstudio.com/learn/get-started/basics",
   },
   {
     id: 3,
@@ -378,8 +380,9 @@ export const blog = [
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
     title: "Setting Up LinkedIn",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b3.webp",
+    desc: "LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps. This website will help you build vital connections from people in the industry of your choice.",
+    cover: "../images/blog/LinkedIn-Logo.wine.png",
+    link:"https://www.linkedin.com/pulse/linkedin-beginner-all-star-8-easy-steps-clifford-wessel/",
   },
 ]
 export const testimonal = [
